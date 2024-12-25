@@ -1,4 +1,4 @@
-# DeepResidualNetworksforCIFAR-10ImageClassification
+# Deep Residual Networks for CIFAR-10 Image Classification
 
 In this classification task, models will take a 32 × 32 image with RGB channels as inputs and classify the image into one of ten pre-defined classes.
 
